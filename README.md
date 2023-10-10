@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Maxnovais777/Maxnovais777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maxnovais777BackendTypescript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
